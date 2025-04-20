@@ -1,2 +1,2 @@
 # Azure-Course
-Custo do Bootcamp  - 1 desafio
+Curso do Bootcamp  - 1 desafio
